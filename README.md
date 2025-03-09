@@ -1,4 +1,3 @@
-# Phase3_Modeling_Project
 ## A data driven project on customer churn rate at SyriaTel
 SyriaTel is a telecommunication company that offers services to various customers. The company would like to reduce its loses by predicting how soon a customer will stop doing business with SyriaTel.
 
